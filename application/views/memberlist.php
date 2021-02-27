@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container"> 
 <h3> <?= $judul ?> </h3>
 <hr>
 <div class="row">

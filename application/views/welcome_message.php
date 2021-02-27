@@ -1,4 +1,4 @@
-<div class="section no-pad-bot" id="index-banner">
+<div class="section no-pad-bot" id="index-banner"> 
 	<div class="container">
 		<br><br>
 		<h1 class="header center orange-text">Welcome To PWEB Hotel</h1>
